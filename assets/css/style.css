@@ -1,0 +1,145 @@
+/* IMPOSTAZIONI GENERALI */
+
+/* HEADER */
+
+/* MAIN */
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+/* TABELLE */
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+#FIRST {
+background-image: url(../img/sfondo.png);
+font-family: 'Poppins', serif;
+}
+
+#Box {
+    width: 300px;
+    height: 250px;
+    background-color: rgb(20, 112, 112);
+    margin: auto;
+}
+    div img {
+        width: 200px;
+        margin-left: 3em;
+        margin-top: 2em;
+        
+    }
+
+    div p {
+       
+        margin-left: 3em;
+        margin-right: 3em;
+        font-size: 0.8em;
+        text-align: center;
+        color: white;
+        font-style: normal;
+    }
+    i {
+        margin-left: 6em;
+    }
+
+    #TWO {
+        width: 300px;
+        height: 3000PX;
+        background-color: white;
+        border: 2px solid rgb(237, 217, 217);
+        margin: auto;
+        margin-top: 1.5em;
+        }
+
+        h1 {
+            color: black;
+            font-size: 2em;
+            margin-top: 0.8em;
+            margin-left: 0.5em;
+        }
+
+        #three {
+            color: grey;
+            font-size: 0.6em;
+            align-items: center;
+            
+        }
+
+        #FOUR p {
+            font-size: 1em;
+             color: rgb(58, 55, 55);
+             margin-left: auto;
+             text-align: left;
+             margin-left: 1em;
+             margin-top: 1em;
+        }
+
+        #FIVE {
+            font-style: oblique;
+            text-align: center;
+            margin-top: 2em;
+
+        }
+        a {
+            color: aqua;
+        }
+
+        iframe {
+            width: 100%;
+            align-items: center;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+      #EIGHT {
+        width: 275px;
+        height: 210px;
+        background-color: rgb(211, 211, 211);
+        margin-top: 2em;
+        margin-left: 0.8em;
+        margin-right: 1em;
+        
+        
+
+      }
+
+      #EIGHT h1 {
+        text-align: center;
+        font-size: 1.5em;
+      }
+
+      #EIGHT p {
+        text-align: left;
+      }
+    .one {
+        background-color: rgb(107, 107, 168);
+        margin-right: 1em;
+        
+        
+     }
+
+     input {
+        margin-left: 1em;
+     }
+
+     #NINE {
+        text-align: center;
+        margin-top: 3em;
+        margin-bottom: 3em;
+     }
+ 
+     #TEN  {
+        width: 270px;
+        height: 100px;
+        background-color: rgb(211, 211, 211);
+        margin: auto;
+        margin-top: 5em;
+        margin-left: 1em;
+        margin-right: 1em;
+        
+     }
